@@ -109,7 +109,6 @@ export function PlantSelect(){
         return <Load />
     }
 
-
     return(
         <View style={styles.container}> 
             <View style={styles.header}>
