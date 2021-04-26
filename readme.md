@@ -23,7 +23,7 @@
 Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
 
 
-## 🔨 Techs: 
+## 🔨 Techs
 <ul>
   <li>TypeScript</li>
   <li>React Native</li>
@@ -51,7 +51,7 @@ Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil d
 
 
 
-## Atividades realizadas por dia
+## 📝 Atividades realizadas por dia
 Primeiro Dia -
 - Instalação de dependências (nodejs, expo-cli, typescript)
 - Criação e estilização do primeiro componente
@@ -77,7 +77,7 @@ Quinto Dia -
 - Agendamento de notificação, api e recebimento
 
 
-## Licença
+## 📄 Licença
 Esse projeto está sob a licença MIT. 
 
 
